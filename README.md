@@ -1,3 +1,24 @@
+ # Challenge 1 completed
+ 
+  * Application's links all function correctly.
+
+  Links all checked and id's correctly linked to css.
+
+  ![Alt text](image.png)
+
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+
+  Divs all changed to sections to follow semanic structure. See code.
+
+  * Application's CSS file is properly commented.
+
+  selected sections consolidated into benifit lead class. 
+
+  live page can be found - https://dpaul93.github.io/Challenge1/starter
+
+  Repo can be found - https://github.com/dpaul93/Challenge1
+
+
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
